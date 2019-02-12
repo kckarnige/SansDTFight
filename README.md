@@ -1,5 +1,5 @@
 # ATTENTION!!
-This is a sprite mod of [Bad Time Simulator](https://jcw87.github.io/c2-sans-fight/), you can play the mod at https://kayos156.github.io/DTSansFight
+This is a sprite mod of [Bad Time Simulator](https://jcw87.github.io/c2-sans-fight/), you can play the mod at https://kayos156.github.io/MegaloStrikeBack
 
 I do not own anything but the sprites. (Accept Sans' Second Tired Sprite AKA Tired2)
 ## Credits
