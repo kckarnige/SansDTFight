@@ -7,6 +7,6 @@ Undertale/Sans: Toby Fox
 
 Inspired by DustTale (By: Evan Streblow)
 
-Music Used: Megalo Strike Back in Style of The Murderer (Updated)
+Music Used: Megalo Strike Back
 
-Music By: DustShift Chara
+Music By: Toby Fox
